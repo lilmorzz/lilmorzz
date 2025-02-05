@@ -121,14 +121,6 @@ Me chamo Pedro Sena, tenho 22 anos e sou natural de Guaratinguetá/SP. Concluí 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Sql"
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
-/>
 
 <br/>
 <br/>
