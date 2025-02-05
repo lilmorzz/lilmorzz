@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Sena
+# 👨‍💻 Pedro Sena
 
 **`Desenvolvedor FullStack`**
 
